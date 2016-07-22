@@ -1,3 +1,6 @@
+
+## DEPRECATED, use [panto-transformer-resource](https://npmjs.org/package/panto-transformer-resource) instead.
+
 # antiaris-panto-transformer-resource
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
 
